@@ -2,7 +2,7 @@ Setup Instructions for Backend and Frontend
 1. Clone the Repository
 Clone the repository to your local machine:
 
-git clone https://github.com/your-repository-url.git
+git clone https://github.com/Amitsonigara/Task_Management.git
 2. Backend (API) Setup - .NET Core
 Step 1: Open the API Project in Visual Studio
 Open Visual Studio.
