@@ -1,0 +1,502 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56995360-8469-4493-A54D-9AC22D34E810}|Task_Management_Api\\TaskManagement.API.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\task_management_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56995360-8469-4493-A54D-9AC22D34E810}|Task_Management_Api\\TaskManagement.API.csproj|solutionrelative:task_management_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0B58B0-B204-4F96-B3F3-8A02857106E9}|TaskManagement.Domain.Repositories\\TaskManagement.Domain.Repositories.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.domain.repositories\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0B58B0-B204-4F96-B3F3-8A02857106E9}|TaskManagement.Domain.Repositories\\TaskManagement.Domain.Repositories.csproj|solutionrelative:taskmanagement.domain.repositories\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF9110-D4B1-4640-8C10-A824EA7EC811}|TaskManagement.Application.Service\\TaskManagement.Application.Service.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.application.service\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EF9110-D4B1-4640-8C10-A824EA7EC811}|TaskManagement.Application.Service\\TaskManagement.Application.Service.csproj|solutionrelative:taskmanagement.application.service\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0B58B0-B204-4F96-B3F3-8A02857106E9}|TaskManagement.Domain.Repositories\\TaskManagement.Domain.Repositories.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.domain.repositories\\task\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0B58B0-B204-4F96-B3F3-8A02857106E9}|TaskManagement.Domain.Repositories\\TaskManagement.Domain.Repositories.csproj|solutionrelative:taskmanagement.domain.repositories\\task\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF9110-D4B1-4640-8C10-A824EA7EC811}|TaskManagement.Application.Service\\TaskManagement.Application.Service.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.application.service\\task\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EF9110-D4B1-4640-8C10-A824EA7EC811}|TaskManagement.Application.Service\\TaskManagement.Application.Service.csproj|solutionrelative:taskmanagement.application.service\\task\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56995360-8469-4493-A54D-9AC22D34E810}|Task_Management_Api\\TaskManagement.API.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\task_management_api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56995360-8469-4493-A54D-9AC22D34E810}|Task_Management_Api\\TaskManagement.API.csproj|solutionrelative:task_management_api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF9110-D4B1-4640-8C10-A824EA7EC811}|TaskManagement.Application.Service\\TaskManagement.Application.Service.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.application.service\\task\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EF9110-D4B1-4640-8C10-A824EA7EC811}|TaskManagement.Application.Service\\TaskManagement.Application.Service.csproj|solutionrelative:taskmanagement.application.service\\task\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EF9110-D4B1-4640-8C10-A824EA7EC811}|TaskManagement.Application.Service\\TaskManagement.Application.Service.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.application.service\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EF9110-D4B1-4640-8C10-A824EA7EC811}|TaskManagement.Application.Service\\TaskManagement.Application.Service.csproj|solutionrelative:taskmanagement.application.service\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0B58B0-B204-4F96-B3F3-8A02857106E9}|TaskManagement.Domain.Repositories\\TaskManagement.Domain.Repositories.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.domain.repositories\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0B58B0-B204-4F96-B3F3-8A02857106E9}|TaskManagement.Domain.Repositories\\TaskManagement.Domain.Repositories.csproj|solutionrelative:taskmanagement.domain.repositories\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C11D36-893C-4E34-87CF-62A1F96422EF}|TaskManagement.Common.Helper\\TaskManagement.Common.Helper.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.common.helper\\passwordhelper\\commonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C11D36-893C-4E34-87CF-62A1F96422EF}|TaskManagement.Common.Helper\\TaskManagement.Common.Helper.csproj|solutionrelative:taskmanagement.common.helper\\passwordhelper\\commonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F86FBC-07D4-49D5-87E2-12C02090573E}|TaskManagement.Freamwork\\TaskManagement.Freamwork.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.freamwork\\middlware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F86FBC-07D4-49D5-87E2-12C02090573E}|TaskManagement.Freamwork\\TaskManagement.Freamwork.csproj|solutionrelative:taskmanagement.freamwork\\middlware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B740AE8C-0745-4E19-8E0A-7C210202E838}|TaskManagement.Domain.Entities\\TaskManagement.Domain.Entities.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.domain.entities\\entities\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B740AE8C-0745-4E19-8E0A-7C210202E838}|TaskManagement.Domain.Entities\\TaskManagement.Domain.Entities.csproj|solutionrelative:taskmanagement.domain.entities\\entities\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B740AE8C-0745-4E19-8E0A-7C210202E838}|TaskManagement.Domain.Entities\\TaskManagement.Domain.Entities.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.domain.entities\\api\\request\\user\\updatepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B740AE8C-0745-4E19-8E0A-7C210202E838}|TaskManagement.Domain.Entities\\TaskManagement.Domain.Entities.csproj|solutionrelative:taskmanagement.domain.entities\\api\\request\\user\\updatepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B740AE8C-0745-4E19-8E0A-7C210202E838}|TaskManagement.Domain.Entities\\TaskManagement.Domain.Entities.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.domain.entities\\api\\request\\user\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B740AE8C-0745-4E19-8E0A-7C210202E838}|TaskManagement.Domain.Entities\\TaskManagement.Domain.Entities.csproj|solutionrelative:taskmanagement.domain.entities\\api\\request\\user\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B740AE8C-0745-4E19-8E0A-7C210202E838}|TaskManagement.Domain.Entities\\TaskManagement.Domain.Entities.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.domain.entities\\entities\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B740AE8C-0745-4E19-8E0A-7C210202E838}|TaskManagement.Domain.Entities\\TaskManagement.Domain.Entities.csproj|solutionrelative:taskmanagement.domain.entities\\entities\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0B58B0-B204-4F96-B3F3-8A02857106E9}|TaskManagement.Domain.Repositories\\TaskManagement.Domain.Repositories.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.domain.repositories\\task\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0B58B0-B204-4F96-B3F3-8A02857106E9}|TaskManagement.Domain.Repositories\\TaskManagement.Domain.Repositories.csproj|solutionrelative:taskmanagement.domain.repositories\\task\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56995360-8469-4493-A54D-9AC22D34E810}|Task_Management_Api\\TaskManagement.API.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\task_management_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56995360-8469-4493-A54D-9AC22D34E810}|Task_Management_Api\\TaskManagement.API.csproj|solutionrelative:task_management_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F86FBC-07D4-49D5-87E2-12C02090573E}|TaskManagement.Freamwork\\TaskManagement.Freamwork.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.freamwork\\middlware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F86FBC-07D4-49D5-87E2-12C02090573E}|TaskManagement.Freamwork\\TaskManagement.Freamwork.csproj|solutionrelative:taskmanagement.freamwork\\middlware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56995360-8469-4493-A54D-9AC22D34E810}|Task_Management_Api\\TaskManagement.API.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\task_management_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56995360-8469-4493-A54D-9AC22D34E810}|Task_Management_Api\\TaskManagement.API.csproj|solutionrelative:task_management_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C11D36-893C-4E34-87CF-62A1F96422EF}|TaskManagement.Common.Helper\\TaskManagement.Common.Helper.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.common.helper\\jwttokenhelper\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C11D36-893C-4E34-87CF-62A1F96422EF}|TaskManagement.Common.Helper\\TaskManagement.Common.Helper.csproj|solutionrelative:taskmanagement.common.helper\\jwttokenhelper\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0B58B0-B204-4F96-B3F3-8A02857106E9}|TaskManagement.Domain.Repositories\\TaskManagement.Domain.Repositories.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.domain.repositories\\taskmanagement.domain.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E0B58B0-B204-4F96-B3F3-8A02857106E9}|TaskManagement.Domain.Repositories\\TaskManagement.Domain.Repositories.csproj|solutionrelative:taskmanagement.domain.repositories\\taskmanagement.domain.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02175132-7394-45A4-8662-5CA9EAED4F0D}|TaskManagement.Shared\\TaskManagement.Shared.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.shared\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02175132-7394-45A4-8662-5CA9EAED4F0D}|TaskManagement.Shared\\TaskManagement.Shared.csproj|solutionrelative:taskmanagement.shared\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02175132-7394-45A4-8662-5CA9EAED4F0D}|TaskManagement.Shared\\TaskManagement.Shared.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.shared\\taskmanagement.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02175132-7394-45A4-8662-5CA9EAED4F0D}|TaskManagement.Shared\\TaskManagement.Shared.csproj|solutionrelative:taskmanagement.shared\\taskmanagement.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56995360-8469-4493-A54D-9AC22D34E810}|Task_Management_Api\\TaskManagement.API.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\task_management_api\\taskmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56995360-8469-4493-A54D-9AC22D34E810}|Task_Management_Api\\TaskManagement.API.csproj|solutionrelative:task_management_api\\taskmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56995360-8469-4493-A54D-9AC22D34E810}|Task_Management_Api\\TaskManagement.API.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\task_management_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56995360-8469-4493-A54D-9AC22D34E810}|Task_Management_Api\\TaskManagement.API.csproj|solutionrelative:task_management_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C11D36-893C-4E34-87CF-62A1F96422EF}|TaskManagement.Common.Helper\\TaskManagement.Common.Helper.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.common.helper\\taskmanagement.common.helper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20C11D36-893C-4E34-87CF-62A1F96422EF}|TaskManagement.Common.Helper\\TaskManagement.Common.Helper.csproj|solutionrelative:taskmanagement.common.helper\\taskmanagement.common.helper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56995360-8469-4493-A54D-9AC22D34E810}|Task_Management_Api\\TaskManagement.API.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\task_management_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56995360-8469-4493-A54D-9AC22D34E810}|Task_Management_Api\\TaskManagement.API.csproj|solutionrelative:task_management_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56995360-8469-4493-A54D-9AC22D34E810}|Task_Management_Api\\TaskManagement.API.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\task_management_api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56995360-8469-4493-A54D-9AC22D34E810}|Task_Management_Api\\TaskManagement.API.csproj|solutionrelative:task_management_api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02175132-7394-45A4-8662-5CA9EAED4F0D}|TaskManagement.Shared\\TaskManagement.Shared.csproj|c:\\users\\dhaval\\source\\repos\\task_management_api\\taskmanagement.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02175132-7394-45A4-8662-5CA9EAED4F0D}|TaskManagement.Shared\\TaskManagement.Shared.csproj|solutionrelative:taskmanagement.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Application.Service\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Application.Service\\User\\UserService.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Application.Service\\User\\UserService.cs",
+              "RelativeToolTip": "TaskManagement.Application.Service\\User\\UserService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAtwEkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:22:24.09Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\Task_Management_Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Task_Management_Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\Task_Management_Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Task_Management_Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:50:37.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Application.Service\\Task\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Application.Service\\Task\\TaskService.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Application.Service\\Task\\TaskService.cs",
+              "RelativeToolTip": "TaskManagement.Application.Service\\Task\\TaskService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwBEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:14:29.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Application.Service\\User\\IUserService.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Application.Service\\User\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Application.Service\\User\\IUserService.cs",
+              "RelativeToolTip": "TaskManagement.Application.Service\\User\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:51:28.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\Task_Management_Api\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Task_Management_Api\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\Task_Management_Api\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Task_Management_Api\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwBsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:50:35.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommonHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Common.Helper\\PasswordHelper\\CommonHelper.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Common.Helper\\PasswordHelper\\CommonHelper.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Common.Helper\\PasswordHelper\\CommonHelper.cs",
+              "RelativeToolTip": "TaskManagement.Common.Helper\\PasswordHelper\\CommonHelper.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA4wBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:14:32.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Domain.Repositories\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Domain.Repositories\\User\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Domain.Repositories\\User\\UserRepository.cs",
+              "RelativeToolTip": "TaskManagement.Domain.Repositories\\User\\UserRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwC4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:51:59.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Domain.Repositories\\Task\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Domain.Repositories\\Task\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Domain.Repositories\\Task\\TaskRepository.cs",
+              "RelativeToolTip": "TaskManagement.Domain.Repositories\\Task\\TaskRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:04:37.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Freamwork\\Middlware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Freamwork\\Middlware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Freamwork\\Middlware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "TaskManagement.Freamwork\\Middlware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:19:31.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Application.Service\\Task\\ITaskService.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Application.Service\\Task\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Application.Service\\Task\\ITaskService.cs",
+              "RelativeToolTip": "TaskManagement.Application.Service\\Task\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:53:09.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Domain.Entities\\Entities\\UserDTO.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Domain.Entities\\Entities\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Domain.Entities\\Entities\\UserDTO.cs",
+              "RelativeToolTip": "TaskManagement.Domain.Entities\\Entities\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T07:48:55.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Domain.Repositories\\User\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Domain.Repositories\\User\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Domain.Repositories\\User\\IUserRepository.cs",
+              "RelativeToolTip": "TaskManagement.Domain.Repositories\\User\\IUserRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAawA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:06:02.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Domain.Entities\\API\\Request\\User\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Domain.Entities\\API\\Request\\User\\UpdateUserRequest.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Domain.Entities\\API\\Request\\User\\UpdateUserRequest.cs",
+              "RelativeToolTip": "TaskManagement.Domain.Entities\\API\\Request\\User\\UpdateUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:54:39.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdatePasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Domain.Entities\\API\\Request\\User\\UpdatePasswordRequest.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Domain.Entities\\API\\Request\\User\\UpdatePasswordRequest.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Domain.Entities\\API\\Request\\User\\UpdatePasswordRequest.cs",
+              "RelativeToolTip": "TaskManagement.Domain.Entities\\API\\Request\\User\\UpdatePasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:55:46.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Domain.Repositories\\Task\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Domain.Repositories\\Task\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Domain.Repositories\\Task\\ITaskRepository.cs",
+              "RelativeToolTip": "TaskManagement.Domain.Repositories\\Task\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:53:58.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\Task_Management_Api\\Program.cs",
+              "RelativeDocumentMoniker": "Task_Management_Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\Task_Management_Api\\Program.cs",
+              "RelativeToolTip": "Task_Management_Api\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:14:51.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Domain.Entities\\Entities\\TaskDTO.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Domain.Entities\\Entities\\TaskDTO.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Domain.Entities\\Entities\\TaskDTO.cs",
+              "RelativeToolTip": "TaskManagement.Domain.Entities\\Entities\\TaskDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:26:03.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Common.Helper\\JwtTokenHelper\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Common.Helper\\JwtTokenHelper\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Common.Helper\\JwtTokenHelper\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "TaskManagement.Common.Helper\\JwtTokenHelper\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:26:47.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\Task_Management_Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Task_Management_Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\Task_Management_Api\\appsettings.json",
+              "RelativeToolTip": "Task_Management_Api\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T17:23:56.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Freamwork\\Middlware\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Freamwork\\Middlware\\JwtMiddleware.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Freamwork\\Middlware\\JwtMiddleware.cs",
+              "RelativeToolTip": "TaskManagement.Freamwork\\Middlware\\JwtMiddleware.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:43:17.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaskManagement.Domain.Repositories.csproj",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Domain.Repositories\\TaskManagement.Domain.Repositories.csproj",
+              "RelativeDocumentMoniker": "TaskManagement.Domain.Repositories\\TaskManagement.Domain.Repositories.csproj",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Domain.Repositories\\TaskManagement.Domain.Repositories.csproj",
+              "RelativeToolTip": "TaskManagement.Domain.Repositories\\TaskManagement.Domain.Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T17:14:08.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Shared\\DBContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Shared\\DBContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Shared\\DBContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TaskManagement.Shared\\DBContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:52:27.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TaskManagement.Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Shared\\TaskManagement.Shared.csproj",
+              "RelativeDocumentMoniker": "TaskManagement.Shared\\TaskManagement.Shared.csproj",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Shared\\TaskManagement.Shared.csproj",
+              "RelativeToolTip": "TaskManagement.Shared\\TaskManagement.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T18:14:55.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TaskManagement.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\Task_Management_Api\\TaskManagement.API.csproj",
+              "RelativeDocumentMoniker": "Task_Management_Api\\TaskManagement.API.csproj",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\Task_Management_Api\\TaskManagement.API.csproj",
+              "RelativeToolTip": "Task_Management_Api\\TaskManagement.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T17:16:10.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\Task_Management_Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Task_Management_Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\Task_Management_Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Task_Management_Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:47:23.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TaskManagement.Common.Helper.csproj",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Common.Helper\\TaskManagement.Common.Helper.csproj",
+              "RelativeDocumentMoniker": "TaskManagement.Common.Helper\\TaskManagement.Common.Helper.csproj",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Common.Helper\\TaskManagement.Common.Helper.csproj",
+              "RelativeToolTip": "TaskManagement.Common.Helper\\TaskManagement.Common.Helper.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T20:41:21.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\Task_Management_Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Task_Management_Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\Task_Management_Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Task_Management_Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T17:30:39.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\Task_Management_Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Task_Management_Api\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\Task_Management_Api\\WeatherForecast.cs",
+              "RelativeToolTip": "Task_Management_Api\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:14:10.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Shared\\Class1.cs",
+              "ToolTip": "C:\\Users\\Dhaval\\source\\repos\\Task_Management_Api\\TaskManagement.Shared\\Class1.cs",
+              "RelativeToolTip": "TaskManagement.Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:52:44.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

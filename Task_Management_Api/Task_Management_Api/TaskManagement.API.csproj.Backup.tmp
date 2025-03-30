@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor" Version="2.3.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.14" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaskManagement.Application.Service\TaskManagement.Application.Service.csproj" />
+    <ProjectReference Include="..\TaskManagement.Domain.Entities\TaskManagement.Domain.Entities.csproj" />
+    <ProjectReference Include="..\TaskManagement.Domain.Repositories\TaskManagement.Domain.Repositories.csproj" />
+    <ProjectReference Include="..\TaskManagement.Freamwork\TaskManagement.Freamwork.csproj" />
+    <ProjectReference Include="..\TaskManagement.Prisitance.Entities\TaskManagement.Prisitance.Entities.csproj" />
+    <ProjectReference Include="..\TaskManagement.Shared\TaskManagement.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,66 @@
+Setup Instructions for Backend and Frontend
+1. Clone the Repository
+Clone the repository to your local machine:
+
+git clone https://github.com/your-repository-url.git
+2. Backend (API) Setup - .NET Core
+Step 1: Open the API Project in Visual Studio
+Open Visual Studio.
+
+Click File -> Open -> Project/Solution.
+
+Navigate to the api folder and open the .sln solution file.
+
+Step 2: Install Dependencies
+In the API project, open the Package Manager Console.
+
+Run the following command to restore dependencies:
+
+dotnet restore
+Step 3: Set Up the Database
+Open the appsettings.json file.
+
+Configure the connection string for your database (e.g., SQL Server).
+
+Step 4: Apply Database Migrations
+Run these commands in the Package Manager Console or terminal to apply migrations and create the database schema:
+
+dotnet ef migrations add InitialCreate
+dotnet ef database update
+Step 5: Run the API
+Start the backend API by clicking Start (or press F5) in Visual Studio.
+
+The API will now be available at https://localhost:7131.
+
+3. Frontend (React.js) Setup
+Step 1: Open the Frontend Project in Visual Studio Code
+Open Visual Studio Code or your preferred code editor.
+
+Navigate to the frontend folder and open it in the editor.
+
+Step 2: Install Dependencies
+In the terminal, navigate to the frontend folder and run the following command to install dependencies:
+
+cd frontend
+npm install
+Or use the alternative command:
+
+npm i --f
+Step 3: Configure API URL
+In the frontend project, create an .env file (if not already created) in the root directory.
+
+Set the API URL to match your backend URL:
+
+env
+REACT_APP_API_URL=https://localhost:7131
+Step 4: Run the Frontend
+In the terminal, run the following command to start the React app:
+
+npm start
+The frontend will now be available at http://localhost:3000.
+
+Final Notes
+Ensure that both the backend API and frontend are running for the application to work properly.
+
+The frontend (React.js) communicates with the API (ASP.NET Core) via the defined endpoints.
+

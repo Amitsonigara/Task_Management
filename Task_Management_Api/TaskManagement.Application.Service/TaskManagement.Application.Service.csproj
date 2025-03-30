@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Portable.BouncyCastle" Version="1.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaskManagement.Domain.Entities\TaskManagement.Domain.Entities.csproj" />
+    <ProjectReference Include="..\TaskManagement.Domain.Repositories\TaskManagement.Domain.Repositories.csproj" />
+    <ProjectReference Include="..\TaskManagement.Prisitance.Entities\TaskManagement.Prisitance.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
